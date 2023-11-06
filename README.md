@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Uli
-- 👀 I' enthusiastic about data science.
-- 🌱 I’m currently learning Applied Analytics at Columbia University
+- 👀 I'm enthusiastic about data science.
 - 💞️ I’m looking to collaborate on data science projects or job opportunities
 - 📫 How to reach me romabutar@gmail.com
 

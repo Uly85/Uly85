@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Uli
-- 👀 I’m interested in data science.
+- 👀 I' enthusiastic about data science.
 - 🌱 I’m currently learning Applied Analytics at Columbia University
-- 💞️ I’m looking to collaborate on data science project or job opportunities
+- 💞️ I’m looking to collaborate on data science projects or job opportunities
 - 📫 How to reach me romabutar@gmail.com
 
 <!---

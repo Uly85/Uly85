@@ -25,7 +25,7 @@ I'm passionate about using data for global development and social good. As a wom
 💬 **What I'm Looking For**:
 I’m actively looking to collaborate on data science projects or explore exciting job opportunities where I can contribute my skills and learn from others.
 
-📬 Feel free to reach out via romabutar@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/romauli-butarbutar/) or see my Project Showcase [Portfolio] (https://uly85.github.io/portfolio/)
+📬 Feel free to reach out via romabutar@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/romauli-butarbutar/) or see my Project Showcase [Portfolio](https://uly85.github.io/portfolio/)
 
 ---
 
@@ -35,7 +35,7 @@ Here are some of the projects I’ve worked on:
 
 - **[Financial Risk Prediction](https://github.com/Uly85/S-P-Global-Market-Intelligence-Capstone-Project)**: A machine learning model that uses economic indicators and transaction data to predict financial risks.
 - **[Natural Language Processing for Spotify Podcast Clustering](https://github.com/Uly85/Podcast-Clustering-Engine-at-Spotify)**: A sentiment analysis model to understand customer sentiments and improve business strategy.
-- **[Kaggle Competition: Predicting Airbnb Rent Pricing](https://github.com/Uly85/Predicting-Rent-Price-Airbnb)**: Using R to implement Data Wrangling, Cleaning and Tidying using dplyr, performed Feature Selection using Feature Selection (Corrplot, Best Subset Selection, Forward and Hybrid Selection, Lasso method), developed Data Modelling including Tree Model (Simple Regression Tree, Regression Tree Complex, Advanced Tree, Tree with Tuning, 5-fold cross-validation, Random Forest, Tuned Random Forest, Forest with Ranger and Boosting with cross-validation and Boosting with XGBoost, and visualize results using ggplot2.
+- **[Kaggle Competition: Predicting Airbnb Rent Pricing](https://github.com/Uly85/Predicting-Rent-Price-Airbnb)**: Using R to implement Data Wrangling, Cleaning, and Tidying using dplyr, performed Feature Selection using Feature Selection (Corrplot, Best Subset Selection, Forward and Hybrid Selection, Lasso method), developed Data Modelling including Tree Model (Simple Regression Tree, Regression Tree Complex, Advanced Tree, Tree with Tuning, 5-fold cross-validation, Random Forest, Tuned Random Forest, Forest with Ranger and Boosting with cross-validation and Boosting with XGBoost, and visualize results using ggplot2.
 
 ## 🌱 Learning & Growing
 

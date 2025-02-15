@@ -10,7 +10,7 @@ Analytically minded self-starter with significant data science experience and ov
 - **Deep Learning**: Neural networks, CNN, RNN, transformers
 - **Geospatial Analysis**: GIS, spatial analysis, satellite image processing
 - **Natural Language Processing (NLP)**: Text mining, sentiment analysis, named entity recognition
-- **Tools & Frameworks**: Python, R, TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Jupyter, SQL
+- **Tools & Frameworks**: Python, R, Stata, TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Jupyter, SQL
 - **Cloud Platforms**: AWS, GCP, Azure
 
 🚀 **Projects & Achievements**:

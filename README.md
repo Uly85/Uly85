@@ -17,7 +17,7 @@ Analytically minded self-starter with significant data science experience and ov
 - Developed predictive models for financial risk assessment using machine learning techniques
 - Analyzed large datasets for actionable insights that drove strategic business decisions
 - Contributed to open-source tools for solving real-world problems
-- Applied advanced algorithms to real-time geospatial and environmental data for actionable insights
+- Applied advanced algorithms to geospatial and financial data for actionable insights
 
 🌍 **Passion & Purpose**:
 I'm passionate about using data for global development and social good. As a woman in data, I advocate for diversity and inclusion in the data science field. I'm driven by the impact data can have on solving critical issues worldwide.
